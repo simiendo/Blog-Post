@@ -129,8 +129,8 @@ footer ul {
 }
 
 footer ul li {
-    display: inline;
     padding: 0 16px;
+    display: inline;
 }
 
 footer li a {
